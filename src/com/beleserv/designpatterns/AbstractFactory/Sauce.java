@@ -1,4 +1,4 @@
-package com.beleserv.designpatterns.Factory;
+package com.beleserv.designpatterns.AbstractFactory;
 
 public interface Sauce {
 
